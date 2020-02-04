@@ -17,7 +17,11 @@ public class VariableExam {
 		
 		String name = "carami";
 		
-		int totalCount; // 두 개 이상의 단어가 만나면 두번째 이상부터 첫번째 단어 앞자리는 대문자로
+		int totalCount = count; // 두 개 이상의 단어가 만나면 두번째 이상부터 첫번째 단어 앞자리는 대문자로
+		
+		System.out.println(avg);
+		System.out.println(name);
+		System.out.println(totalCount);
 	}
 	
 }
